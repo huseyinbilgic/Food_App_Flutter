@@ -129,7 +129,7 @@ class SubMenus extends StatelessWidget {
                           content: SingleChildScrollView(
                             child: ListBody(
                               children: <Widget>[
-                                Text(dizi[i]["price"].toString() + " TL"),
+                                Text(dizi[i]["price"]!=null?dizi[i]["price"].toString() + " TL":"Fiyat bilgisi yok."),
                               ],
                             ),
                           ),
