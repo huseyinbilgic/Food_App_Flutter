@@ -1,4 +1,4 @@
-## Açılıştı çıkan menülerden menü adının üzerine tıklandığında fotoğraf altında alt menüler listelenir.Menüye tıklandığından içerisinde alt menü yoksa menü fiyatını gösterir varsa ayrı bir sayfada alt menüler listelenir.
+## Açılışta çıkan menülerden menü adının üzerine tıklandığında fotoğraf altında alt menüler listelenir.Menüye tıklandığından içerisinde alt menü yoksa menü fiyatını gösterir varsa ayrı bir sayfada alt menüler listelenir.
  
 A new Flutter project.
 
